@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CryptographyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7E8C3C-D2CE-40B4-BFBE-56D3ABDE800F}|ASymmetricEncryption\\ASymmetricEncryption.csproj|d:\\projects\\cryptographydemo\\asymmetricencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7E8C3C-D2CE-40B4-BFBE-56D3ABDE800F}|ASymmetricEncryption\\ASymmetricEncryption.csproj|solutionrelative:asymmetricencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F49257-19D5-40C4-A974-8D2BAEBFB1F4}|CryptographyDemo\\CryptographyDemo.csproj|d:\\projects\\cryptographydemo\\cryptographydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F49257-19D5-40C4-A974-8D2BAEBFB1F4}|CryptographyDemo\\CryptographyDemo.csproj|solutionrelative:cryptographydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7E8C3C-D2CE-40B4-BFBE-56D3ABDE800F}|ASymmetricEncryption\\ASymmetricEncryption.csproj|d:\\projects\\cryptographydemo\\asymmetricencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD7E8C3C-D2CE-40B4-BFBE-56D3ABDE800F}|ASymmetricEncryption\\ASymmetricEncryption.csproj|solutionrelative:asymmetricencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\CryptographyDemo\\ASymmetricEncryption\\Form1.cs",
+              "RelativeDocumentMoniker": "ASymmetricEncryption\\Form1.cs",
+              "ToolTip": "D:\\Projects\\CryptographyDemo\\ASymmetricEncryption\\Form1.cs",
+              "RelativeToolTip": "ASymmetricEncryption\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA2wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:34:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\CryptographyDemo\\ASymmetricEncryption\\Form1.cs",
+              "RelativeDocumentMoniker": "ASymmetricEncryption\\Form1.cs",
+              "ToolTip": "D:\\Projects\\CryptographyDemo\\ASymmetricEncryption\\Form1.cs [Design]",
+              "RelativeToolTip": "ASymmetricEncryption\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:30:51.077Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CryptographyDemo\\CryptographyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CryptographyDemo\\Program.cs",
+              "ToolTip": "D:\\Projects\\CryptographyDemo\\CryptographyDemo\\Program.cs",
+              "RelativeToolTip": "CryptographyDemo\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:14:11.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

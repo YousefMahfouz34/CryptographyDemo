@@ -1,0 +1,14 @@
+D:\Projects\CryptographyDemo\CryptographyDemo\bin\Debug\net8.0\CryptographyDemo.exe
+D:\Projects\CryptographyDemo\CryptographyDemo\bin\Debug\net8.0\CryptographyDemo.deps.json
+D:\Projects\CryptographyDemo\CryptographyDemo\bin\Debug\net8.0\CryptographyDemo.runtimeconfig.json
+D:\Projects\CryptographyDemo\CryptographyDemo\bin\Debug\net8.0\CryptographyDemo.dll
+D:\Projects\CryptographyDemo\CryptographyDemo\bin\Debug\net8.0\CryptographyDemo.pdb
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.AssemblyInfoInputs.cache
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.AssemblyInfo.cs
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.csproj.CoreCompileInputs.cache
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.dll
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\refint\CryptographyDemo.dll
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.pdb
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\CryptographyDemo.genruntimeconfig.cache
+D:\Projects\CryptographyDemo\CryptographyDemo\obj\Debug\net8.0\ref\CryptographyDemo.dll

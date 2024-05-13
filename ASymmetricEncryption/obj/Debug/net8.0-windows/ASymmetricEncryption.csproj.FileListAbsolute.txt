@@ -1,0 +1,16 @@
+D:\Projects\CryptographyDemo\ASymmetricEncryption\bin\Debug\net8.0-windows\ASymmetricEncryption.exe
+D:\Projects\CryptographyDemo\ASymmetricEncryption\bin\Debug\net8.0-windows\ASymmetricEncryption.deps.json
+D:\Projects\CryptographyDemo\ASymmetricEncryption\bin\Debug\net8.0-windows\ASymmetricEncryption.runtimeconfig.json
+D:\Projects\CryptographyDemo\ASymmetricEncryption\bin\Debug\net8.0-windows\ASymmetricEncryption.dll
+D:\Projects\CryptographyDemo\ASymmetricEncryption\bin\Debug\net8.0-windows\ASymmetricEncryption.pdb
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.Form1.resources
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.csproj.GenerateResource.cache
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.AssemblyInfoInputs.cache
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.AssemblyInfo.cs
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.csproj.CoreCompileInputs.cache
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.dll
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\refint\ASymmetricEncryption.dll
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.pdb
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ASymmetricEncryption.genruntimeconfig.cache
+D:\Projects\CryptographyDemo\ASymmetricEncryption\obj\Debug\net8.0-windows\ref\ASymmetricEncryption.dll
